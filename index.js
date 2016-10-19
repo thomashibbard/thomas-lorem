@@ -12,7 +12,7 @@ const directory = process.cwd();
 const stringSize = Buffer.byteLength(string, 'utf8');
 const max = 104857600;
 const min = stringSize;
-var sizeArg = argv.size || argv.s;
+var sizeArg = argv.size || argv.s || '1MB';
 var parsedSizeArg = parser(sizeArg);
 var desiredFileSize = parsedSizeArg >= max ? max :
 											parsedSizeArg <= min ? min : parsedSizeArg;
