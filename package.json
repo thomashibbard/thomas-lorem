@@ -1,5 +1,5 @@
 {
-  "name": "thomas-lorem",
+  "name": "Thomas Lorem",
   "version": "0.0.7",
   "description": "Generate a dummy text file of lorem ipsum text at size you specify",
   "main": "index.js",
