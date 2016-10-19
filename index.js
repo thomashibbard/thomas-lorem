@@ -1,3 +1,5 @@
+'use strict'
+
 var writeFile = require('fs-extra').writeFile
 	,	parser = require('filesize-parser')
 	, argv = require('yargs').argv
