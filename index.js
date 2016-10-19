@@ -2,7 +2,7 @@ var writeFile = require('fs-extra').writeFile
 	,	parser = require('filesize-parser')
 	, argv = require('yargs').argv
 	, join = require('path').join
-	, string = require('./src-str').string;
+	, string = require('./src-string').string;
 
 const directory = process.cwd();
 const stringSize = Buffer.byteLength(string, 'utf8');
