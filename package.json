@@ -1,7 +1,7 @@
 {
   "name": "file-gen",
   "version": "1.0.0",
-  "description": "generate files of various size",
+  "description": "generate files of lorem ipsum at a specified size",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
