@@ -1,4 +1,6 @@
-'use strict'
+#! /usr/bin/env node
+
+"use strict"
 
 var writeFile = require('fs-extra').writeFile
 	,	parser = require('filesize-parser')
