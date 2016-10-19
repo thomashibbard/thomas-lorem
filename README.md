@@ -1,8 +1,6 @@
 #Thomas Lorem
 
-Generate a dummy text file of lorem ipsum text at size you specify
-
-    npm intall -g thomas-lorem
+```npm intall -g thomas-lorem```
 
 <br>
 
@@ -15,7 +13,7 @@ lorem --s=50kB
 ```
 
 <br>
-will produce the following in your `cwd`
+will produce the following in your ```cwd```
 
 ```
 -rw-r--r--   1 you  staff    15M Oct 19 17:55 15.5MB_sample_1476917733960.txt

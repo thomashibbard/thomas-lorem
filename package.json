@@ -1,7 +1,7 @@
 {
   "name": "thomas-lorem",
   "version": "0.0.6",
-  "description": "generate files of lorem ipsum at a specified size",
+  "description": "Generate a dummy text file of lorem ipsum text at size you specify",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
