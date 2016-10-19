@@ -1,0 +1,17 @@
+{
+  "name": "file-gen",
+  "version": "1.0.0",
+  "description": "generate files of various size",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "filesize-parser": "^1.4.1",
+    "fs-extra": "^0.30.0",
+    "path": "^0.12.7",
+    "yargs": "^6.2.0"
+  }
+}
