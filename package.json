@@ -1,6 +1,6 @@
 {
   "name": "thomas-lorem",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "generate files of lorem ipsum at a specified size",
   "main": "index.js",
   "scripts": {
