@@ -1,5 +1,8 @@
 #Thomas Lorem
 
+####Generate a dummy text file of lorem ipsum text at size you specify
+
+
 ```npm intall -g thomas-lorem```
 
 <br>
